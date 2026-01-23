@@ -7,13 +7,19 @@ Chaque projet est structuré autour d'un [bloc RNCP (Répertoire National des Ce
 ---
 
 ## Navigation
-- [RNCP37837BC01 - Structurer et gérer la base de données](./RNCP37837BC01/)
-- [RNCP37837BC02 - Identifier, collecter et analyser les données](./RNCP37837BC02/)
-- [RNCP37837BC03 - Visualiser des données et interpréter des résultats](./RNCP37837BC03/)
-- [RNCP37837BC04 - Piloter un projet data en respectant la réglementation](./RNCP37837BC04/)
+
+### [RNCP37837BC01 - Structurer et gérer la base de données](./RNCP37837BC01/)
+
+### [RNCP37837BC02 - Identifier, collecter et analyser les données](./RNCP37837BC02/)
+
+### [RNCP37837BC03 - Visualiser des données et interpréter des résultats](./RNCP37837BC03/)
+
+### [RNCP37837BC04 - Piloter un projet data en respectant la réglementation](./RNCP37837BC04/)
   - [Projet 1 - Prenez en main votre formation de Data Analyst](./RNCP37837BC04/projet-01/)
-- [RNCP37837BC05 - Spécialisation Data Analyst - Statistiques : Réaliser des tests statistiques et concevoir des modèles d’apprentissage supervisé et non supervisé](./RNCP37837BC05/)
-- [RNCP37837BC07 - Spécialisation Data Analyst - Business Intelligence : Définir la stratégie de Business Intelligence en regard du marché, proposer des outils, réaliser des analyses et rapporter ses résultats](./RNCP37837BC07/)
+
+### [RNCP37837BC05 - Spécialisation Data Analyst - Statistiques : Réaliser des tests statistiques et concevoir des modèles d’apprentissage supervisé et non supervisé](./RNCP37837BC05/)
+
+### [RNCP37837BC07 - Spécialisation Data Analyst - Business Intelligence : Définir la stratégie de Business Intelligence en regard du marché, proposer des outils, réaliser des analyses et rapporter ses résultats](./RNCP37837BC07/)
 
 ---
 
