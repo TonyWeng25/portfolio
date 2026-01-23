@@ -28,3 +28,10 @@
 - 1 : [Fiche de début de formation](./Livrables/Weng_Tony_1_fiche_formation_102023.pdf)
 - 2 : [Fiche de découverte des attendus du métier](./Livrables/Weng_Tony_2_fiche_attendus_metier_102023.pdf)
 - 3 : [Grille d'auto-évaluation des compétences visées de la formation](./Livrables/Weng_Tony_3_grille_auto_evaluation_competences_102023.pdf)
+
+---
+
+- Retour à la [présentation du bloc RNCP](../README.md)
+- Retour à la [présentation générale des projets de formation](../../README.md)
+- Retour à la [présentation du parcours Data Analyst](../../../README.md)
+- Retour à l'[accueil du portfolio](../../../../README.md)

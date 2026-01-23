@@ -1,7 +1,11 @@
 # RNCP37837BC04 - Piloter un projet data en respectant la réglementation
 
+---
+
 ## Projets de formation associés à ce bloc RNCP :
 - [Projet 1 - Prenez en main votre formation de Data Analyst](./projet-01/)
+
+---
 
 ## Liste de compétences visées dans ce bloc RNCP :
 - Effectuer une veille  métier et technologique en recherchant des solutions et en testant de nouveaux outils et techniques d’analyse de données afin de comprendre les enjeux et maintenir ses compétences à jour.
@@ -12,3 +16,9 @@
 - Organiser des ateliers de formation en lien avec les besoins utilisateurs sur la prise en main des outils proposés aux équipes afin de  garantir leur bonne utilisation.
 - Gérer la documentation et formaliser les processus en capitalisant sur les savoir-faire afin de proposer une documentation fiable.
 - Adapter sa posture de professionnel en se positionnant comme consultant ou pair afin de challenger efficacement les besoins exprimés et répondre ainsi à la demande.
+
+---
+
+- Retour à la [présentation générale des projets de formation](../README.md)
+- Retour à la [présentation du parcours Data Analyst](../../README.md)
+- Retour à l'[accueil du portfolio](../../../README.md)
