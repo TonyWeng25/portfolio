@@ -19,6 +19,6 @@
 
 ---
 
-- Retour à la [présentation générale des projets de formation](../README.md)
-- Retour à la [présentation du parcours Data Analyst](../../README.md)
-- Retour à l'[accueil du portfolio](../../../README.md)
+- Retour à la [présentation générale des projets de formation](../)
+- Retour à la [présentation du parcours Data Analyst](../../)
+- Retour à l'[accueil du portfolio](../../../)
