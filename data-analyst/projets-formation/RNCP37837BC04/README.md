@@ -8,7 +8,7 @@
 
 ---
 
-## Liste de compétences visées dans ce bloc RNCP :
+## Liste de compétences visées dans ce bloc [RNCP](https://www.francecompetences.fr/recherche/rncp/37837/) :
 - Effectuer une veille  métier et technologique en recherchant des solutions et en testant de nouveaux outils et techniques d’analyse de données afin de comprendre les enjeux et maintenir ses compétences à jour.
 
 - Expérimenter de nouvelles méthodes d’analyse de données identifiées à travers des recherches documentaires sourcées, afin de proposer une solution  technique adaptée au traitement des données et à son enjeu.
