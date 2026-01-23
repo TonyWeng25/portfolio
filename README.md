@@ -1,4 +1,3 @@
-# [Portfolio Tony WENG](https://tonyweng25.github.io/portfolio) - Portfolio Tony WENG
+# [Portfolio de Tony WENG](https://tonyweng25.github.io/portfolio)
 
-# Mon parcours Data Analyst
-- [Présentation générale des projets de formation](./data-analyst/README.md)
+## Mon [Portfolio de Data Analyst](./data-analyst/README.md)
