@@ -1,6 +1,6 @@
 # Projet 1 - Prenez en main votre formation de Data Analyst
 
-**Bloc RNCP** : [RNCP37837BC04 - Piloter un projet data en respectant la réglementation](../../RCNCP37837BC04/)
+**Bloc RNCP** : [RNCP37837BC04 - Piloter un projet data en respectant la réglementation](../../RCNCP37837BC04/) 
 **Durée indicative** : 14 heures
 
 ---
@@ -17,11 +17,11 @@
 - Organistaion & autonomie : projet en autodidacte, une session de mentorat par semaine, projection de la formation
 - Esprit analytique & critique : auto-évaluation des compétences, établissement des objectifs, prise en compte des difficultés
 
----
-
 ## Outils utilisés
 
 - Suite Microsoft Office (Word, Excel)
+
+--- 
 
 ## Livrables du projet
 
