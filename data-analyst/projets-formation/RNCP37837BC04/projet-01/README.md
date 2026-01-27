@@ -26,7 +26,7 @@
 ## Livrables du projet
 
 - [Fiche de début de formation](./1_fiche_formation.pdf)
-- [Fiche de découverte des attendus du métier](./2_fiche_decouvertes_metiers.pdf)
+- [Fiche de découverte des attendus du métier](./2_fiche_decouverte_metiers.pdf)
 - [Grille d'auto-évaluation des compétences visées de la formation](./3_grille_auto_evaluation.pdf)
 
 ---

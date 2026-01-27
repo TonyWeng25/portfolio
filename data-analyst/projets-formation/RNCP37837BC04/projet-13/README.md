@@ -32,17 +32,14 @@
 
 ## Livrables du projet
 
-- [Analyse des besoins métiers](./1_analyse_besoins_métiers.pdf)
+- [Analyse des besoins métiers](./1_analyse_besoins_metiers.pdf)
 - [Cahier des charges](./2_cahier_des_charges.pdf)
 - [Diagramme de Gantt](./3_gantt.pdf)
 - Tableau de bord de veille ([.pbix](./4a_veille.pbix) ou [.pdf](./4b_veille.pdf))
 - Tableau de bord de profil ([.pbix](./5a_profil.pbix) ou [.pdf](./5b_profil.pdf))
-- [Vidéo de présentation Power BI](https://www.loom.com/share/903061af0dc34605a6dea9bbaf8279cc)
+- [Vidéo de présentation Power BI (redirection vers Loom)](https://www.loom.com/share/903061af0dc34605a6dea9bbaf8279cc)
 - [Documentation - Guide de création de graphiques](./6_documentation_guide_Power_BI.pdf)
-
 - [Lien vers le portfolio en ligne](https://tonyweng25.github.io/portfolio/)
-
-
 
 ---
 
