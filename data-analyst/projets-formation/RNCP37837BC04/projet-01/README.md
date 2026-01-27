@@ -25,9 +25,9 @@
 
 ## Livrables du projet
 
-- [Fiche de début de formation](./Livrables/Weng_Tony_1_fiche_formation_102023.pdf)
-- [Fiche de découverte des attendus du métier](./Livrables/Weng_Tony_2_fiche_attendus_metier_102023.pdf)
-- [Grille d'auto-évaluation des compétences visées de la formation](./Livrables/Weng_Tony_3_grille_auto_evaluation_competences_102023.pdf)
+- [Fiche de début de formation](./1_fiche_formation.pdf)
+- [Fiche de découverte des attendus du métier](./2_fiche_decouvertes_metiers.pdf)
+- [Grille d'auto-évaluation des compétences visées de la formation](./3_grille_auto_evaluation.pdf)
 
 ---
 

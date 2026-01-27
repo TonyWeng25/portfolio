@@ -7,6 +7,7 @@ Durant mon parcours, j'ai appris à maitriser différents outils d'analyse, de v
 ## Ma formation : OpenClassrooms - Data Analyst
 OpenClassrooms est une plateforme d'apprentissage en ligne qui propose des parcours professionnalisants. J'ai choisi le parcours Data Analyst pour acquérir des compétences solides en analyse de données et me préparer à une carrière dans ce domaine en pleine expansion.
 - [Présentation générale des projets de la formation](./projets-formation/)
+- [Portfolio "Aéroworld"](./projets-formation/RNCP37837BC04/projet-13/) réalisé à la fin de la formation
 
 ---
 
