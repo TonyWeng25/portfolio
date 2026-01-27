@@ -24,7 +24,7 @@
 ## Livrables du projet
 
 - [Rapport mensuel d'analyse des ventes](./1_rapport_mensuel.pdf)
-- [Tableau de bord des clients affiliés](./2_clients_affilies.pdf)
+- [Tableau de bord des clients affiliés](./2_clients_affilies.xlsx)
 
 ---
 

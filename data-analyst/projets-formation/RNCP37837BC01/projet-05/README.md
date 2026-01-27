@@ -27,7 +27,7 @@
 
 ## Livrables du projet
 
-- [Dictionnaire de données](./1_dictionnaire_de_donnees.pdf)
+- [Dictionnaire de données](./1_dictionnaire_de_donnees.xlsx)
 - [Support de présentation](./2_support_presentation.pdf)
 
 ---

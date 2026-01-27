@@ -29,7 +29,7 @@
 
 ## Livrables du projet
 
-- [Document technique](./1_document-technique.pdf)
+- [Document technique](./1_document_technique.pdf)
 - [Liste des requêtes avec les résultats](./2_liste.pdf)
 - [Présentation de la méthodologie et rappel des résultats](./3_méthodologie.pdf)
 - [Grille d'auto-évaluation](./4_grille.pdf)

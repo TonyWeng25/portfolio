@@ -29,7 +29,7 @@
 ## Livrables du projet
 
 - [Support de présentation](./1_presentation.pdf)
-- [Tableau de bord Power BI](./2_dashboard.pdf)
+- Tableau de bord ([.pbix](./2a_dashboard.pbix) ou [.pdf](./2b_dashboard.pdf))
 
 ---
 
