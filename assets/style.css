@@ -4,14 +4,15 @@
   --background: #F5F7FA;
   --text: #1A1A1A;
   --text-light: #6B7280;
+  --left-margin: 5vw;
 }
 
 body {
   font-family: 'Segoe UI', sans-serif;
   color: var(--text);
   background: #FFFFFF;
-  align-items: center;
-  justify-content: center;
+  margin-left: var(--left-margin);
+  margin-right: auto;
 }
 
 h1, h2, h3 {
