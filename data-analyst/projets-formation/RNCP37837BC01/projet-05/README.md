@@ -1,3 +1,8 @@
+---
+layout: default
+title: Projet 5 - Créez et utilisez une base de données immobilière avec SQL
+---
+
 <div class="section">
   <h1>Projet 5 - Créez et utilisez une base de données immobilière avec SQL</h1>
   <p><strong>Bloc RNCP</strong> : <a href="../">RNCP37837BC01 - Structurer et gérer la base de données</a><br>

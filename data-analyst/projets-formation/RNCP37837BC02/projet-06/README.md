@@ -1,3 +1,8 @@
+---
+layout: default
+title: Projet 6 - Optimisez la gestion des données d'une boutique avec R ou Python
+---
+
 <div class="section">
   <h1>Projet 6 - Optimisez la gestion des données d'une boutique avec R ou Python</h1>
   <p><strong>Bloc RNCP</strong> : <a href="../">RNCP37837BC02 - Identifier, collecter et analyser les données</a>

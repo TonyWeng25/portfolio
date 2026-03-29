@@ -1,3 +1,8 @@
+---
+layout: default
+title: 
+---
+
 <div class="section">
   <h1>Projet 7 - Créez un tableau de bord dynamique avec Power BI pour visualiser l'avancement de projets</h1>
   <p><strong>Bloc RNCP</strong> : <a href="../">RNCP37837BC03 - Visualiser des données et interpréter des résultats</a>

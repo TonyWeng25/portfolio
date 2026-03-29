@@ -1,3 +1,8 @@
+---
+layout: default
+title: Projet 11 - Produisez une étude de marché avec R ou Python
+---
+
 <div class="section">
   <h1>Projet 11 - Produisez une étude de marché avec R ou Python</h1>
   <p><strong>Bloc RNCP</strong> : <a href="../">RNCP37837BC07 - Spécialisation Data Analyst - Business Intelligence : Définir la stratégie de Business Intelligence en regard du marché, proposer des outils, réaliser des analyses et rapporter ses résultats</a>

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Data Analyst
+---
+
 <div class="section">
   <h1>Mon profil Data Analyst</h1>
   <p>Autonome et rigoureux, j'ai toujours été intéressé par le fait de manipuler les nombres et les données afin de leur donner un sens.</p>

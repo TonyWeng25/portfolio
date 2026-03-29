@@ -1,3 +1,8 @@
+---
+layout: default
+title: Projet 13 - Créez votre portfolio de professionel de data
+---
+
 <div class="section">
   <h1>Projet 13 - Créez votre portfolio de professionel de data</h1>
   <p><strong>Bloc RNCP</strong> : <a href="../">RNCP37837BC04 - Piloter un projet data en respectant la réglementation</a>

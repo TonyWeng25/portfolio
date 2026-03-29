@@ -1,3 +1,8 @@
+---
+layout: default
+title: Projet 3 - Requêtez une base de données avec SQL
+---
+
 <div class="section">
   <h1>Projet 3 - Requêtez une base de données avec SQL</h1>
   <p><strong>Bloc RNCP</strong> : <a href="../">RNCP37837BC01 - Structurer et gérer la base de données</a><br>

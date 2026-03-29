@@ -1,3 +1,8 @@
+---
+layout: default
+title: Projet 12 - Détectez des faux billets avec R ou Python
+---
+
 <div class="section">
   <h1>Projet 12 - Détectez des faux billets avec R ou Python</h1>
   <p><strong>Bloc RNCP</strong> : <a href="../">RNCP37837BC05 - Spécialisation Data Analyst - Statistiques : Réaliser des tests statistiques et concevoir des modèles d’apprentissage supervisé et non supervisé</a>

@@ -1,6 +1,10 @@
+---
+layout: default
+title: OpenClassrooms - Projets de formation
+---
+
 <div class="section">
   <h1>Projets OpenClassrooms - Data Analyst</h1>
-
   <p>Bienvenue dans le répertoire des projets de formation pour le parcours Data Analyst d'OpenClassrooms. Vous trouverez ici une collection organisée de projets réalisés dans le cadre de ma formation, chacun visant à développer des compétences spécifiques en analyse de données.</p>
   <p>Chaque projet est structuré autour d'un <a href="https://www.francecompetences.fr/recherche/rncp/37837/">bloc RNCP (Répertoire National des Certifications Professionnelles)</a> correspondant, avec des descriptions détaillées des compétences visées, des outils utilisés et des livrables produits.</p>
 </div>

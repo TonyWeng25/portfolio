@@ -1,3 +1,8 @@
+---
+layout: default
+title: RNCP37837BC01 - Structurer et gérer la base de données
+---
+
 <h1 style="color:#1F3A5F;">RNCP37837BC01 - Structurer et gérer la base de données</h1>
 
 ---

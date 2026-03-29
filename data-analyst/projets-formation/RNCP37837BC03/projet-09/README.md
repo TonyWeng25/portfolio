@@ -1,3 +1,8 @@
+---
+layout: default
+title: Projet 9 - Analysez les ventes d'une librairie avec R ou Python
+---
+
 <div class="section">
   <h1>Projet 9 - Analysez les ventes d'une librairie avec R ou Python</h1>
   <p><strong>Bloc RNCP</strong> : <a href="../">RNCP37837BC03 - Visualiser des données et interpréter des résultats</a>

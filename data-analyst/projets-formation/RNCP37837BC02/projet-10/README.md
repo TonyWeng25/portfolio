@@ -1,3 +1,8 @@
+---
+layout: default
+title: Projet 10 - Faites une étude sur l'eau potable
+---
+
 <div class="section">
   <h1>Projet 10 - Faites une étude sur l'eau potable</h1>
   <p><strong>Bloc RNCP</strong> : <a href="../">RNCP37837BC02 - Identifier, collecter et analyser les données</a>

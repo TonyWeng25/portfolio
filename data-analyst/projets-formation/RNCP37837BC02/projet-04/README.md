@@ -1,3 +1,8 @@
+---
+layout: default
+title: RNCP37837BC02 - Identifier, collecter et analyser les données
+---
+
 <div class="section">
   <h1>Projet 4 - Réalisez une étude de santé publique avec R ou Python</h1>
   <p><strong>Bloc RNCP</strong> : <a href="../">RNCP37837BC02 - Identifier, collecter et analyser les données</a>

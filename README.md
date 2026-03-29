@@ -1,3 +1,8 @@
+---
+layout: default
+title: Portfolio de Tony WENG
+---
+
 <h1 style="color:#1F3A5F;"><a href="https://tonyweng25.github.io/portfolio">Portfolio de Tony WENG</a></h1>
 
 <div class="section">

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Projet 1 - Prenez en main votre formation de Data Analyst
+---
+
 <div class="section">
   <h1>Projet 1 - Prenez en main votre formation de Data Analyst</h1>
   <p><strong>Bloc RNCP</strong> : <a href="../">RNCP37837BC04 - Piloter un projet data en respectant la réglementation</a>

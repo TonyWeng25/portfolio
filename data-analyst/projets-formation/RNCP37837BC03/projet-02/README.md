@@ -1,3 +1,8 @@
+---
+layout: default
+title: Projet 2 - Faites une analyse de ventes pour un e-commerce
+---
+
 <div class="section">
   <h1>Projet 2 - Faites une analyse de ventes pour un e-commerce</h1>
   <p><strong>Bloc RNCP</strong> : <a href="../">RNCP37837BC03 - Visualiser des données et interpréter des résultats</a>

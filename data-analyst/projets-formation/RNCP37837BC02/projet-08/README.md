@@ -1,3 +1,8 @@
+---
+layout: default
+title: Projet 8 - Analysez des indicateurs de l'égalité femmes-hommes en respect du RGPD
+---
+
 <div class="section">
   <h1>Projet 8 - Analysez des indicateurs de l'égalité femmes-hommes en respect du RGPD</h1>
   <p><strong>Bloc RNCP</strong> : <a href="../">RNCP37837BC02 - Identifier, collecter et analyser les données</a>
