@@ -1,4 +1,4 @@
-# RNCP37837BC04 - Piloter un projet data en respectant la réglementation
+<h1 style="color:#1F3A5F;">RNCP37837BC04 - Piloter un projet data en respectant la réglementation</h1>
 
 ---
 
@@ -27,6 +27,6 @@
 
 ---
 
-- Retour à la [présentation générale des projets de formation](../)
-- Retour à la [présentation du parcours Data Analyst](../../)
-- Retour à l'[accueil du portfolio](../../../)
+<a href="../" class="button">Retour à la présentation générale des projets de formation</a>
+<a href="../../" class="button">Retour à la présentation du parcours Data Analyst</a>
+<a href="../../../" class="button">Retour à l'accueil du portfolio</a>

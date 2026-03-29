@@ -1,38 +1,51 @@
-# Projet 5 - Créez et utilisez une base de données immobilière avec SQL
-
-**Bloc RNCP** : [RNCP37837BC01 - Structurer et gérer la base de données](../) 
-**Durée indicative** : 60 heures
-
----
-
-## Compétences du projet
-
-- Créer une base de données en respectant les normes et les besoins clients  
-- Effectuer des requêtes SQL pour répondre à des problématiques métier  
-- Gérer une base de données en conformité avec le RGPD  
-
-## Soft skills travaillés pendant le projet
-
-- Communication : soutenance
-- Organistaion & autonomie : projet en autodidacte, une session de mentorat par semaine
-- Rigueur & précision : création d'un dictionnaire de données et vérification des résultats
-
-## Outils utilisés
-
-- SQL (SQLite)
-- DB Browser for SQLite
-- Suite Microsoft Office (Excel, PowerPoint)
-
---- 
-
-## Livrables du projet
-
-- [Dictionnaire de données](./1_dictionnaire_de_donnees.xlsx)
-- [Support de présentation](./2_support_presentation.pdf)
+<div class="section">
+  <h1>Projet 5 - Créez et utilisez une base de données immobilière avec SQL</h1>
+  <p><strong>Bloc RNCP</strong> : <a href="../">RNCP37837BC01 - Structurer et gérer la base de données</a><br>
+  <strong>Durée indicative</strong> : 60 heures</p>
+</div>
 
 ---
 
-- Retour à la [présentation du bloc RNCP](../)
-- Retour à la [présentation générale des projets de formation](../../)
-- Retour à la [présentation du parcours Data Analyst](../../../)
-- Retour à l'[accueil du portfolio](../../../../)
+<div class="section">
+  <h2>Compétences du projet</h2>
+  <ul>
+    <li>Créer une base de données en respectant les normes et les besoins clients</li>
+    <li>Effectuer des requêtes SQL pour répondre à des problématiques métier</li>
+    <li>Gérer une base de données en conformité avec le RGPD</li>
+  </ul>
+</div>
+
+<div class="section">
+  <h2>Soft skills travaillés pendant le projet</h2>
+  <ul>
+    <li>Communication : soutenance</li>
+    <li>Organisation & autonomie : projet en autodidacte, une session de mentorat par semaine</li>
+    <li>Rigueur & précision : création d'un dictionnaire de données et vérification des résultats</li>
+  </ul>
+</div>
+
+<div class="section">
+  <h2>Outils utilisés</h2>
+  <ul>
+    <li>SQL (SQLite)</li>
+    <li>DB Browser for SQLite</li>
+    <li>Suite Microsoft Office (Excel, PowerPoint)</li>
+  </ul>
+</div>
+
+---
+
+<div class="section">
+  <h2>Livrables du projet</h2>
+  <ul>
+    <li><a href="./1_dictionnaire_de_donnees.xlsx">Dictionnaire de données</a></li>
+    <li><a href="./2_support_presentation.pdf">Support de présentation</a></li>
+  </ul>
+</div>
+
+---
+
+<li><a href="../" class="button">Retour à la présentation du bloc RNCP</a></li>
+<li><a href="../../" class="button">Retour à la présentation générale des projets de formation</a></li>
+<li><a href="../../../" class="button">Retour à la présentation du parcours Data Analyst</a></li>
+<li><a href="../../../../" class="button">Retour à l'accueil du portfolio</a></li>
