@@ -10,6 +10,8 @@ body {
   font-family: 'Segoe UI', sans-serif;
   color: var(--text);
   background: #FFFFFF;
+  align-items: center;
+  justify-content: center;
 }
 
 h1, h2, h3 {
