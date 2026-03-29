@@ -4,7 +4,8 @@
   --background: #F5F7FA;
   --text: #1A1A1A;
   --text-light: #6B7280;
-  --left-margin: 5vw;
+  --left-margin: 25vw;
+  --right-margin: 25vw;
 }
 
 body {
@@ -12,7 +13,7 @@ body {
   color: var(--text);
   background: #FFFFFF;
   margin-left: var(--left-margin);
-  margin-right: auto;
+  margin-right: var(--right-margin);
 }
 
 h1, h2, h3 {
