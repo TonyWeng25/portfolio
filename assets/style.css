@@ -38,6 +38,8 @@ h1, h2, h3 {
   padding: 10px 15px;
   border-radius: 6px;
   text-decoration: none;
+  display: inline-block;
+  margin: 5px 0;
 }
 
 .button:hover {
