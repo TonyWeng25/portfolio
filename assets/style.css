@@ -6,6 +6,10 @@
   --text-light: #6B7280;
 }
 
+html {
+  background: linear-gradient(90deg, #2C5282 0%, #2C5282 8%, #FFFFFF 8%, #FFFFFF 92%, #2C5282 92%, #2C5282 100%);
+}
+
 body {
   font-family: 'Segoe UI', sans-serif;
   color: var(--text);
