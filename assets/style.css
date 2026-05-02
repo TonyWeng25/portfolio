@@ -39,7 +39,7 @@ h1, h2, h3 {
   border-radius: 6px;
   text-decoration: none;
   display: inline-block;
-  margin: 5px 0;
+  margin: 5px 5px;
 }
 
 .button:hover {
