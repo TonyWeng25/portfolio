@@ -1,13 +1,13 @@
 :root {
-  --primary: #1F3A5F;
-  --secondary: #2C5282;
-  --background: #F5F7FA;
-  --text: #1A1A1A;
-  --text-light: #6B7280;
+  --primary: #D21404;
+  --secondary: #9B1003;
+  --background: #FBE8E6;
+  --text: #2F0A07;
+  --text-light: #7D2002;
 }
 
 html {
-  background: linear-gradient(90deg, #2C5282 0%, #2C5282 8%, #FFFFFF 8%, #FFFFFF 92%, #2C5282 92%, #2C5282 100%);
+  background: linear-gradient(90deg, #9B1003 0%, #9B1003 8%, #FBE8E6 8%, #FBE8E6 92%, #9B1003 92%, #9B1003 100%);
 }
 
 body {
